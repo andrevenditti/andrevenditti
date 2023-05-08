@@ -1,17 +1,38 @@
 ## Olá! Eu sou o André Venditti 👣
 
-🔭 Atualmente trabalho como freelancer em projetos de web design e design gráfico com Figma<br>
-🌱 Estudando React Js e Typescript<br>
-😄 Pronomes: ele/dele<br>
-</p>
-  Nascido e criado na terra rasgada conhecida como Sorocaba. Entusiasta da atividade física, nerd de aviação, fã de motocicletas.<br> Apaixonado por tecnologia e no fator transformador que ela tem na vida das pessoas,   o que me fez migrar da área da <br> Educação Física para Desenvolvimento Web.<br>
-  Desenvolvedor full stack em formação pela Cubos Academy, acumulo experiências em design UX/UI, front-end (ReactJS)<br> e back-end (NodeJS), e sigo estudando Typescript, React e NodeJS.<br>
-  Tenho interesse em atuar como Desenvolvedor front-end ou full stack.
-</p>
+💻 Eu sou um desenvolvedor Front-End
 
+🔭 Atualmente trabalho como freelancer em projetos de web design e design gráfico com Figma
+
+🌱 Estudando React Js e Typescript
+
+🎓 Eu estudo Desenvolvimento de Software Fullstack pela @Cubos Academy
+
+👩‍💻 Atualmente eu trabalho como web designer freelancer e voluntário no projeto movimento mulheres e mães jardineiras
+
+🔎 Também sou curioso sobre UI/UX Design, design patterns e arquitetura de software
+
+✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física (musculação, dança, luta, natação, etc)
+
+😄 Pronomes: ele/dele
+
+### Eu já trabalhei com... 
+
+**Tecnologias e Ferramentas**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Eu estou estudando... 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrevenditti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevenditti&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
