@@ -10,7 +10,7 @@
 
 🔎 Também sou curioso sobre UI/UX Design, design patterns e arquitetura de software
 
-✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física (musculação, dança, luta, natação, etc)
+✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física (musculação, dança, luta, natação, etc), jogar com meus amigos e ver o pôr do sol
 
 😄 Pronomes: ele/dele
 
@@ -34,8 +34,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrevenditti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevenditti&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/andrevenditti/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrevenditti&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevenditti&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
