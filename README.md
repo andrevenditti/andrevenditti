@@ -2,13 +2,11 @@
 
 💻 Eu sou um desenvolvedor Front-End
 
-🔭 Atualmente trabalho como freelancer em projetos de web design e design gráfico com Figma
-
 🌱 Estudando React Js e Typescript
 
 🎓 Eu estudo Desenvolvimento de Software Fullstack pela @Cubos Academy
 
-👩‍💻 Atualmente eu trabalho como web designer freelancer e voluntário no projeto movimento mulheres e mães jardineiras
+👩‍💻 Atualmente eu trabalho como web designer freelancer e voluntário no movimento mulheres e mães jardineiras
 
 🔎 Também sou curioso sobre UI/UX Design, design patterns e arquitetura de software
 
@@ -28,11 +26,16 @@
 ### Eu estou estudando... 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrevenditti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevenditti&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,7 +46,7 @@
   <img align="center" alt="Andre-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-##
+## Gostou do meu perfil? Entre em contato comigo pelas redes sociais
 
 <div> 
   <a href="https://www.instagram.com/andreemoraes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
