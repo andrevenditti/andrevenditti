@@ -6,11 +6,11 @@
 
 🎓 Eu estudo Desenvolvimento de Software Fullstack pela @Cubos Academy
 
-👩‍💻 Atualmente eu trabalho como web designer freelancer e voluntário no movimento mulheres e mães jardineiras
+👩‍💻 Atualmente eu trabalho como web designer freelancer
 
-🔎 Também sou curioso sobre UI/UX Design, design patterns e arquitetura de software
+🔎 Também sou curioso sobre UI/UX Design e arquitetura de software
 
-✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física (musculação, dança, luta, natação, etc), jogar com meus amigos e ver o pôr do sol
+✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física, conversar e jogar com meus amigos e ver o pôr do sol
 
 😄 Pronomes: ele/dele
 
