@@ -10,7 +10,7 @@
 
 🔎 Também sou curioso sobre UI/UX Design e arquitetura de software
 
-✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física, conversar e jogar com meus amigos e ver o pôr do sol
+✒️ Eu gosto de no meu tempo livre andar de moto, fazer atividade física e ver o pôr do sol
 
 😄 Pronomes: ele/dele
 
