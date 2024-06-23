@@ -4,7 +4,9 @@
 
 🌱 Estudando React Js e Typescript
 
-🎓 Eu estudo Desenvolvimento de Software Fullstack pela @Cubos Academy
+🎓 Estudei Desenvolvimento de Software Fullstack pela @Cubos Academy
+
+🏫 Estou no 6º semestre de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba
 
 👩‍💻 Atualmente eu trabalho como web designer freelancer
 
